@@ -1,0 +1,5 @@
+serverip: localhost
+serverport: 32176
+dimensions:
+  width: 800
+  height: 600
