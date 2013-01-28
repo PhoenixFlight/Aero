@@ -1,4 +1,4 @@
-package com.zephyrr.aero.entry;
+package com.zephyrr.aero.util;
 
 import java.io.File;
 import java.io.FileInputStream;

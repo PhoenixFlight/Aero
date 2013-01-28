@@ -1,6 +1,7 @@
 package com.zephyrr.aero.entry;
 
 import com.zephyrr.aero.gui.Window;
+import com.zephyrr.aero.util.Configuration;
 
 public class Main {
 	private Window mainWindow;
