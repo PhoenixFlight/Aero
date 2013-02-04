@@ -8,7 +8,7 @@ public class Main {
 	private Configuration config;
 	public Main() {
 		config = new Configuration();
-		mainWindow = new Window();
+		mainWindow = new Window(800,600);
 		mainWindow.setVisible(true);
 	}
 	public boolean loop() {
